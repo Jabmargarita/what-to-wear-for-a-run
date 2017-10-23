@@ -2,8 +2,8 @@ body {
 	background-color: #F7D488;
 	max-width: 1000px;
 	max-height: 1000px;
-	
-}
+	}
+
 #intro {
 	position:absolute;
 
@@ -33,6 +33,7 @@ input[type=button] {
     margin: 4px 2px;
     cursor: pointer;
 }
+
 input[type=number] {
 	border: 2px green;
     border-radius: 4px;
