@@ -5,7 +5,7 @@ Shows the outfit you should wear for a run.
 <img src="https://media.giphy.com/media/3ov9jLRtLwncqA1cys/source.gif" />
 
 
-# What is does:  
+# What it does:  
 This program takes weather input in Celsius and outputs icons of clothes you should wear for a run.
 
 
