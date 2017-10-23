@@ -1,7 +1,7 @@
 # what-to-wear-for-a-run
 Shows the outfit you should wear for a run.
+<img src="https://media.giphy.com/media/3ov9jLRtLwncqA1cys/giphy.gif" />
 
-<iframe src="https://giphy.com/embed/3ov9jLRtLwncqA1cys" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/whattoweartool-3ov9jLRtLwncqA1cys">via GIPHY</a></p>
 
 # What is does:  
 This program takes weather input in Celsius and outputs icons of clothes you should wear for a run.
