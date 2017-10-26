@@ -1,31 +1,54 @@
-body {
-	background-color: #F7D488;
-	max-width: 1000px;
-	max-height: 1000px;
-	}
+body:after { 
 
-#intro {
-	position:absolute;
+content: "";
+background: url("../images/shoes.png");
+opacity: 0.3;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1; 
 
-    top:60px;
-    left:100px;
-    color: white;
-    font-size: 500%;
-    font: sans-serif;
-    margin: auto;
-    width: 50%;
+
+}
+
+*body {
+    display: inline-block;
 }
 
 
-#myForm, #weather, #demo {
-    margin: auto;
-    width: 50%;
-    padding: 10px;
+h1 {
+    font-size: 70px;
+    text-align: center;
+    font-style: bold;
+    color: #222E50;
+    margin: 20px;
 }
+
+
+#myForm, #weather {
+    text-align: center;
+    font-size: 40px;
+    margin: 20px;
+    color: #222E50;
+    font-style: bold;
+    padding-top: 20px;
+    
+}
+
+
+#demo {
+    display:block;
+    margin-top: 10px;
+     margin-left: auto;
+  margin-right: auto;
+}
+
 
 
 input[type=button] {
-    background-color: #F89944;
+    background-color: #0B4C5F;
    color: white;
    font-size: 29px;
     border: none;
@@ -33,20 +56,17 @@ input[type=button] {
     margin: 4px 2px;
     cursor: pointer;
 }
-
 input[type=number] {
+    background-color: #A9D0F5;
 	border: 2px green;
     border-radius: 4px;
     padding: 16px 16px;
 
 }
-#myForm {
-	color: #F89944;
-	font-size: 24px;
-	font: serif;
+
+#demo {
+    display: inline-box;
+    margin-left: auto;
+    margin-right: auto;
 }
-#weather {
-	color: grey;
-	font:serif;
-	font-size: 28px;
-}
+
