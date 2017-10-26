@@ -2,7 +2,7 @@
 Shows the outfit you should wear for a run.
 
 <br>
-<img src="https://media.giphy.com/media/3ov9jLRtLwncqA1cys/source.gif" />
+<img src="https://media.giphy.com/media/xT9IguiCpfboihAbf2/source.gif" />
 
 
 # What it does:  
